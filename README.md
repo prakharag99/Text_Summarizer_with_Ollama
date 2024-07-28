@@ -17,3 +17,7 @@ Installation
 2. Install the required Python libraries: pip install requests click
 3. Ensure the Qwen2 0.5B model is running locally on http://localhost:11434/.
 
+Usage
+1. Summarizing Text from a File: use the --file option followed by the path to the file.
+2. Summarizing Direct Text Input: use the --text option followed by your text.
+

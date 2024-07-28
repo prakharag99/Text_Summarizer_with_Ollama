@@ -13,6 +13,7 @@ Requirements
 3. Qwen2 0.5B model running locally on http://localhost:11434/
 
 Installation
-1. Clone the repository:
-   a) git clone https://github.com/yourusername/text-summarization-tool.git
-   b) cd text-summarization-tool
+1. Clone the repository: git clone https://github.com/yourusername/text-summarization-tool.git
+2. Install the required Python libraries: pip install requests click
+3. Ensure the Qwen2 0.5B model is running locally on http://localhost:11434/.
+

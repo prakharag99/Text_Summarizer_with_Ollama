@@ -21,9 +21,13 @@ Usage
 1. Summarizing Text from a File: use the --file option followed by the path to the file.
 2. Summarizing Direct Text Input: use the --text option followed by your text.
 
-Example usage
+Example commands to use:
 1. For summarizing text from a File: python text_summarizer.py --file test.txt
-2. For summarizing direct text input: python text_summarizer.py --text "Your long text goes here."
+2. For summarizing direct text input: python text_summarizer.py --text "Your long text goes here.
+
+Files:
+1. text_summarizer.py: Contains the code and logic used for summarization.
+2. test.txt: Contains sample text for summarization.
 
 Acknowledgements
 1. Qwen2 0.5B Model

@@ -14,5 +14,5 @@ Requirements
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/text-summarization-tool.git
-   cd text-summarization-tool
+   a) git clone https://github.com/yourusername/text-summarization-tool.git
+   b) cd text-summarization-tool

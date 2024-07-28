@@ -25,7 +25,7 @@ Example commands to use:
 1. For summarizing text from a File: python text_summarizer.py --file test.txt
 2. For summarizing direct text input: python text_summarizer.py --text "Your long text goes here.
 
-Files:
+Files
 1. text_summarizer.py: Contains the code and logic used for summarization.
 2. test.txt: Contains sample text for summarization.
 
